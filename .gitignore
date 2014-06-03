@@ -189,8 +189,8 @@ $RECYCLE.BIN/
 
 *.py[co]
 
-!_bint.so
-!bint.py
+_bint.so
+bint.py
 
 # Packages
 *.egg
